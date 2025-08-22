@@ -4,7 +4,7 @@ This project applies **K-Means clustering** to the **Mall Customers dataset** in
 By identifying distinct customer groups, businesses can design **targeted marketing strategies**, improve customer experience, and optimize resource allocation.  
 We also use the **Elbow Method** to determine the optimal number of clusters and visualize the results for better interpretation.  
 
-##Result
+## Result
 
 <img width="403" height="153" alt="截屏2025-08-21 20 58 12" src="https://github.com/user-attachments/assets/23ce2d76-3823-40be-a502-e235a20ac6be" />
 <img width="543" height="437" alt="截屏2025-08-21 20 59 12" src="https://github.com/user-attachments/assets/830d5fd9-5c8b-4ad7-aefc-1c61a8b26e61" />
